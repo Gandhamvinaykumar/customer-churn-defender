@@ -5,7 +5,7 @@ Automated multi-agent SaaS churn risk detection, security auditing, and intellig
 ## Prerequisites
 * **Python**: 3.11 – 3.13
 * **Package Manager**: [uv](https://github.com/astral-sh/uv)
-* **API Key**: Gemini API Key from [aistudio.google.com/apikey](https://aistudio.google.com/apikey)
+* **API Key**: Gemini API Key from [aistudio.google.com/apikey]
 
 ## Quick Start
 
